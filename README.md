@@ -1,4 +1,6 @@
-<p align="center"><a href="https://espochep.com.ec/" target="_blank"></a> <img src="[url](https://espochep.com.ec/fotos/favicon.webp))"> ESPOCHEP</p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://espochep.com.ec/fotos/favicon.webp" width="400"></a>ESPOCHEP</p>
 
 
 ## Acerda de ESPOCHEP
